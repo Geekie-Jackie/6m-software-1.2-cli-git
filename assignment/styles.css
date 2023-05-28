@@ -1,54 +1,54 @@
-body, head {
-    background: rgb(7, 7, 7);
+body,
+head {
+  background: rgb(7, 7, 7);
 }
 
 h1 {
-    font-size: 100px;
-    font-family: 'Bungee Spice', cursive;
-    margin-bottom: 20px;
+  font-size: 100px;
+  font-family: "Bungee Spice", cursive;
+  margin-bottom: 20px;
 }
 
 h2 {
-    font-family: 'nabla', cursive;
-    font-size: 60px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+  font-family: "nabla", cursive;
+  font-size: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
-p, li {
-    font-family: 'Martian Mono', monospace;
-    font-size: 25px;
-    color:rgb(16, 255, 16)
+p,
+li {
+  font-family: "Martian Mono", monospace;
+  font-size: 25px;
+  color: rgb(16, 255, 16);
 }
 
 marquee {
-    font-family: 'Monofett', monospace;
-    font-size: 50px;
-    font-weight: bold;
-    color: blueviolet;
-    border-color: rgb(16, 255, 16);
-    border-style: solid;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  font-family: "Monofett", monospace;
+  font-size: 50px;
+  font-weight: bold;
+  color: blueviolet;
+  border-color: rgb(16, 255, 16);
+  border-style: solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 #sands {
-    border-radius: 50%;
-    padding: 10px;
-    margin: 10px;
-    width: 500px;
-    height: 500px;
+  border-radius: 50%;
+  padding: 10px;
+  margin: 10px;
+  width: 500px;
+  height: 500px;
 }
 
 a {
-    font-family: 'Nova Mono', monospace;
-    font-size:25px;
-    color: hotpink
+  font-family: "Nova Mono", monospace;
+  font-size: 25px;
+  color: hotpink;
 }
 
 a:hover {
-    color: darkolivegreen;
+  color: darkolivegreen;
 }
-
-
